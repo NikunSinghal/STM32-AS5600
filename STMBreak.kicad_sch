@@ -8858,7 +8858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_HC49-U_Horizontal"
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD_HandSoldering"
 			(at 224.79 96.52 0)
 			(effects
 				(font
