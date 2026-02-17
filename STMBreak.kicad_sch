@@ -4014,6 +4014,66 @@
 		)
 		(uuid e56fe8e5-4ee1-4912-a1eb-afd3dbb21f48)
 	)
+	(text "VDDA CAPS\n"
+		(exclude_from_sim no)
+		(at 140.716 191.262 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "09a083ce-cec5-430a-812a-8dbb0d192fd9")
+	)
+	(text "STM32F103C8T6"
+		(exclude_from_sim no)
+		(at 60.706 149.352 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3001369b-4121-44b3-b562-2ad287f35685")
+	)
+	(text "LEDs\n"
+		(exclude_from_sim no)
+		(at 140.462 145.288 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "31e17491-2220-4f4f-bbe6-455a632a5c83")
+	)
+	(text "DUMMY PINS\n"
+		(exclude_from_sim no)
+		(at 225.298 150.368 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "64112c5c-ae7b-4839-9c64-e8bae0041561")
+	)
+	(text "CRYSTAL\n"
+		(exclude_from_sim no)
+		(at 227.33 111.506 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "75cc3d02-55d6-47b1-82b5-0225dd05798b")
+	)
+	(text "LDO\n"
+		(exclude_from_sim no)
+		(at 167.386 114.046 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a61af38f-def8-4324-b310-58dd9ec7186d")
+	)
 	(text "AS5600\n"
 		(exclude_from_sim no)
 		(at 168.402 71.882 0)
@@ -4023,6 +4083,36 @@
 			)
 		)
 		(uuid "a7fe10ff-1aa6-4786-bd74-5d200c1dc175")
+	)
+	(text "RESET BUTTON"
+		(exclude_from_sim no)
+		(at 97.282 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c356b872-6327-4e10-94ae-316a7b8768b0")
+	)
+	(text "USB C\n"
+		(exclude_from_sim no)
+		(at 230.124 82.804 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dc78979e-913c-4644-8e9c-b6644f4e8aef")
+	)
+	(text "SWD\n"
+		(exclude_from_sim no)
+		(at 183.388 150.368 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f2fa30a1-1046-42cd-82c4-db6e5671aafd")
 	)
 	(junction
 		(at 63.5 45.72)
