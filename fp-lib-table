@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AS5600")(type "KiCad")(uri "C:/Users/aai/Documents/AS5600.pretty")(options "")(descr ""))
+  (lib (name "FerriteBead")(type "KiCad")(uri "C:/Users/aai/Documents/FerriteBead.pretty")(options "")(descr ""))
+  (lib (name "TypeC")(type "KiCad")(uri "C:/Users/aai/Documents/TypeC.pretty")(options "")(descr ""))
+  (lib (name "TS09")(type "KiCad")(uri "C:/Users/aai/Documents/TS09.pretty")(options "")(descr ""))
+)

@@ -7187,7 +7187,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA"
+		(property "Footprint" "TS09:SW_TS09-63-25-R-260-SMT-TR"
 			(at 96.52 160.02 0)
 			(effects
 				(font
@@ -8858,7 +8858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD_HandSoldering"
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering"
 			(at 224.79 96.52 0)
 			(effects
 				(font
