@@ -58,24 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "hole_clearance|176680000|85510000|9cb99c33-c079-4e9e-a5ee-f79068934cc9|8aee9aed-982a-44bc-b568-ef035a48d1b5",
-          ""
-        ],
-        [
-          "hole_clearance|176680000|85510000|dff2fa01-68df-4f76-abf1-70e088c18df1|8aee9aed-982a-44bc-b568-ef035a48d1b5",
-          ""
-        ],
-        [
-          "hole_clearance|182780000|85510000|a654be29-8d66-43e3-a930-b59ea77762fe|c7261d40-154b-4462-a23b-7900d11b7184",
-          ""
-        ],
-        [
-          "hole_clearance|182780000|85510000|d8cc708e-875e-4b2d-bce1-9e49873daffa|c7261d40-154b-4462-a23b-7900d11b7184",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -510,12 +493,26 @@
         "diff_pair_width": 0.2,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "USB",
+        "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "USB",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.5,
+        "via_diameter": 0.6,
         "via_drill": 0.3
       }
     ],
@@ -532,6 +529,14 @@
       {
         "netclass": "USB",
         "pattern": "D-"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "3.3V"
       }
     ]
   },

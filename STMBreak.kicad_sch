@@ -4054,7 +4054,7 @@
 		)
 		(uuid "64112c5c-ae7b-4839-9c64-e8bae0041561")
 	)
-	(text "CRYSTAL\n"
+	(text "CRYSTAL 8Mhz\n"
 		(exclude_from_sim no)
 		(at 227.33 111.506 0)
 		(effects
@@ -8801,7 +8801,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "30p"
 			(at 220.98 101.5999 0)
 			(effects
 				(font
@@ -9146,7 +9146,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "30p"
 			(at 233.68 101.5999 0)
 			(effects
 				(font
